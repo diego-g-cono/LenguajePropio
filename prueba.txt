@@ -1,0 +1,9 @@
+a:=1; 
+switch a
+case 2: a:=2
+case 1: a:=3
+default a:=4
+end;
+b := linexp [ c:=3, d:=3, 15];
+e := promedio a b c d 9;
+e<b ? k:=1 : p:=3 end
